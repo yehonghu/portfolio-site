@@ -1,3 +1,9 @@
+/* 
+   File Name: Contact.js
+   Student Name: Yehong Hu
+   Student ID: 301392896
+   Date: 2024.09.28
+*/
 const Contact = () => {
     return (
       <div className="contact-container">

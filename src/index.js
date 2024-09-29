@@ -1,3 +1,9 @@
+/* 
+   File Name: index.js
+   Student Name: Yehong Hu
+   Student ID: 301392896
+   Date: 2024.09.28
+*/
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

@@ -1,21 +1,27 @@
+/* 
+   File Name: Projects.js
+   Student Name: Yehong Hu
+   Student ID: 301392896
+   Date: 2024.09.28
+*/
 const Projects = () => {
     return (
       <div className="projects-container">
         <h1>My Projects</h1>
         <div className="project-card">
-          <img src="project1.jpg" alt="Project 1" />
+          <img src="Project1.png" alt="Project 1" />
           <h3>Project 1</h3>
-          <p>Description of your role and the outcome.</p>
+          <p>I developed and designed a housing sales website.</p>
         </div>
         <div className="project-card">
-          <img src="project2.jpg" alt="Project 2" />
+          <img src="Project2.png" alt="Project 2" />
           <h3>Project 2</h3>
-          <p>Description of your role and the outcome.</p>
+          <p>I developed and designed my own Iphone 15 mobile phone introduction and third-party sales website.</p>
         </div>
         <div className="project-card">
-          <img src="project3.jpg" alt="Project 3" />
+          <img src="Project3.png" alt="Project 3" />
           <h3>Project 3</h3>
-          <p>Description of your role and the outcome.</p>
+          <p>I made a Course Instructor Evaluation Page.</p>
         </div>
       </div>
     );

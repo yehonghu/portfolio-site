@@ -1,3 +1,9 @@
+/* 
+   File Name: App.js
+   Student Name: Yehong Hu
+   Student ID: 301392896
+   Date: 2024.09.28
+*/
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import AboutMe from './AboutMe';
