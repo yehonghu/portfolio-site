@@ -75,14 +75,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px 20px;
+    padding: 100px 20px;
   }
   
   .about-container img {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    margin-right: 20px;
+    width: 200px;
+    height: 250px;
+    margin-right: 100px;
   }
   
   .about-container p {
